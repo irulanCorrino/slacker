@@ -11,7 +11,9 @@
      > 'boughs' —branch prediction of future activity ['suggestion'; movable sliders, buttons etc]
      * obtrusive and more intense than traces
      * this definition does not necessarily imply animation however
-     > 'traces'&'boughs' are totally aplicable to our treefingers‑styled undo/redo or versions or a version’s undo/redo history [i.e. 'a recording of traces' & 'boughs are active for treefingers‑style history']
+     > 'traces'&'boughs' are totally aplicable to our treefingers‑styled undo/redo or versions or a version’s undo/redo history [i.e. 'a recording of traces' & 'boughs are active for treefingers‑style history']1
+     > much of pictograms we are accustomed to are in reality absolutely meaningless —i do mismatch things like 'close a dialog' cross and 'search button' magnifier glass; ideograms are nearly irrelevant to real‑world brain —'the locus' command is that matters [even if it’s difficult to grasp with university‑type of mind or reasoning a placement is better associated with action than an icon]; also not to disregard the words preferring icons
+     > 'ready‑to‑be‑useful‑at‑instant' utility ever & immediately popping up just where it is used habitually can be nothing but a source of major annoyance or frustration or confusion or distraction —think of your Android’s soft‑keyboard meeting you like flattery servant every time you wanna get alone with your diary’s impressions
 # Warped zooming [clustered fractal‑like, zonally variable zooming]
 # Tools/objects in clusters
 # Tools/objects placed at distinctive layers [like a drumset on a stage]
