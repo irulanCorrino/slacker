@@ -52,7 +52,7 @@
 # Bi-directional tool-to-object [clustering] bindings
 # To account for memory+sensory troubles:
 - 'if i do not see water then i cannot choose between two bowls using a placement of lid [green plate] (even if the target stands on a tray [which is white plate and is on pale sheet])';
-- also —'pop‑soda' —'in routine feeding taking a pill from a blister is unmemorisable if there are other supplements in a batch'; [a conservative solution to it: {'pop‑a‑pill' => memory loss} BUT {pop‑a‑pill'&'mark‑next‑one‑with‑red‑highlighter' => survival + memory loss}];
+- also —'pop‑soda' —'in routine feeding taking a pill from a blister is unmemorisable if there are other supplements in a batch'; [a conservative solution to it: {'pop‑a‑pill' => memory loss} BUT {pop‑a‑pill'&'mark‑next‑one‑with‑red‑highlighter' => survival + memory loss}; issue: 'survival' but WHEN?];
 - also —'blurring of blurred' —i cannot see even textured noncolored glass on a spotted or blotched surface
 # In-app editing: persistence {} with $refusal [prevents accidental alterations];
 # To avoid relying on user`s readiness of getting accustomed with 'over-processed' interface --'yes! i have pushed all the buttons!'
