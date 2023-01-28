@@ -34,6 +34,7 @@
 # Depth relations for tools/objects
 # Sensitivity relations to triggering action for tools/objects
 # Audio should be represented by higher priority graphical abstractions than anything else
+- slacker is silent by default but may include 'Learning Mode' in which a voice feedback is enabled by default [definable verbosity]
 # No‑ridiculous suggestions for an action (unlike widely used menus with logically inappropriate sets of actions for a given context)
 # To minimize obtrusiviness of animations for the sake of easy visual location (nistagmus prevention; friendliness to 3d‑blind women) —in physical world upon encountering black object on black&white background i either try moving it either try scanning the environment (protruding black&white knife @ big glass bowl + white plate -- small black cup)
 # Gesture feedback [with visually appealing primitives[^2]*]; no arrows crosses etc for a pointer; identical implementation for both touch screen and touchpad/mouse
