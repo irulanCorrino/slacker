@@ -9,17 +9,20 @@
       * traces change their appearance at each consecutive invocation
       * this definition may include inobtrusive animation as well
      > 'boughs' —branch prediction of future activity ['suggestion'; movable sliders, buttons etc]
-     * obtrusive and more intense than traces
-     * this definition does not necessarily imply animation however
+      * obtrusive and more intense than traces
+      * this definition does not necessarily imply animation however
      > 'traces'&'boughs' are totally aplicable to our treefingers‑styled undo/redo or versions or a version’s undo/redo history [i.e. 'a recording of traces' & 'boughs are active for treefingers‑style history']
      > 'repeating a movement to check a distance' [ex post facto estimation; reiterant evaluation; reverberating feedback]
-     * previous setting’s tracking to newly set one
+      * previous setting’s tracking to newly set one
      > 'vacuum diagrams'
+     > strong or deep emotions worsen learning process [emotions wipe emerging data structures, emerging models and memory in general], this is significant to the learning software system itself as well
+      * but it is natural and normal to experience such emotions during learning, i.e. they, a wonder for example, are unavoidable, futhermore a degree of enhancement is possible via a kinda feedback [there are several networks in a brain, both of positive & negative FB, but in PFB domain a reward complex, for example, does not accept rough data or generated models for an input —but only emotions!!!]
      > two‑phase actions detection & alert ('approached element/activity <=> completed an action' [going away or staying there it turns into 'vicinity' types])
      > much of pictograms we are accustomed to are in reality absolutely meaningless —i do mismatch things like 'close a dialog' cross and 'search button' magnifier glass; ideograms are nearly irrelevant to real‑world brain —'the locus' command is that matters [even if it’s difficult to grasp with university‑type of mind or reasoning a placement is better associated with action than an icon], and to stress it once again —**color!** (a keyboard i am using right now has a bug so i cannot memorize what symbol on some three particular buttons is assigned long press [a daunting task by itself] —naturally, it takes higher loci); also not to disregard the words preferring icons
      > 'ready‑to‑be‑useful‑at‑instant' utility ever & immediately popping up just where it is used habitually can be nothing but a source of major annoyance or frustration or confusion or distraction —think of your Android’s soft‑keyboard meeting you like flattery servant every time you wanna get alone with your diary’s impressions
      > conditional menu items or conditional control elements while introducing a degree of computational complexity may greatly easen visual load ['to drink or to eat now' —it is easy to choose a branch but the alarm takes one single placeholder position in a list]; you may conceptualize it like 'ambiguous multifunctional or multimodal control elements branching user’s own workflow or decision tree'
      > b vs w elements are not distinctive one from another; switch toggle action is not memorizable; inactive elements may not be drawn the same as active ones (spatial alterations would not work, think 'a drawer‑panel' vs 'da‑vinci‑effect'); not to overload placeholders —'my only toothbrush in a cup'
+     > artificial depth relationships, like shades or tints of colors, are really alerting features in an interface; think of me making a portion of protein isolate in a cup —an overhead led lamp is not enough (i have 4500k there) —i turn on a side led lamp that is more powerful AND COLDER VALUE of 6500k [i heavily rely on colors because of 3d‑blindness]
      > 
      > 
 # To account for memory+sensory troubles:
@@ -33,6 +36,7 @@
 # Tools/objects placed at distinctive layers [like a drumset on a stage]
 # Depth relations for tools/objects
 # Sensitivity relations to triggering action for tools/objects
+# A kinda shelf with locking [catchy] space around
 # Audio should be represented by higher priority graphical abstractions than anything else
 - slacker is silent by default but may include 'Learning Mode' in which a voice feedback is enabled by default [definable verbosity]
 # No‑ridiculous suggestions for an action (unlike widely used menus with logically inappropriate sets of actions for a given context)
