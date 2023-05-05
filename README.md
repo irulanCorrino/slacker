@@ -23,7 +23,8 @@
      > conditional menu items or conditional control elements while introducing a degree of computational complexity may greatly easen visual load ['to drink or to eat now' —it is easy to choose a branch but the alarm takes one single placeholder position in a list]; you may conceptualize it like 'ambiguous multifunctional or multimodal control elements branching user’s own workflow or decision tree'
      > b vs w elements are not distinctive one from another; switch toggle action is not memorizable; inactive elements may not be drawn the same as active ones (spatial alterations would not work, think 'a drawer‑panel' vs 'da‑vinci‑effect'); not to overload placeholders —'my only toothbrush in a cup'
      > artificial depth relationships, like shades or tints of colors, are really alerting features in an interface; think of me making a portion of protein isolate in a cup —an overhead led lamp is not enough (i have 4500k there) —i turn on a side led lamp that is more powerful AND COLDER VALUE of 6500k [i heavily rely on colors because of 3d‑blindness]
-     > 
+     > individual switches for tooltips AND icons’ text
+     > 'recursive uncertainity' —two states alarm & tracker
      > 
 # To account for memory+sensory troubles:
 - 'if i do not see water then i cannot choose between two bowls using a placement of lid [green plate] (even if the target stands on a tray [which is white plate and is on pale sheet])';
@@ -44,8 +45,11 @@
 # Gesture feedback [with visually appealing primitives[^2]*]; no arrows crosses etc for a pointer; identical implementation for both touch screen and touchpad/mouse
 # Never have tooltips colored the same as floating menu items!
 # To try to eliminate 'the no‑two‑fingers interface' [to model associativity]
+# To try reducing presence of vertical and horizontal strokes in user input [hands are better with performing diagonal strokes]; e.g. circular gesture instead of vertical stroke in DAW 'draw' tool with definable resolution/depth level
 # No 'delete entry' option [to 'shade' instead]
 # No‑repetitive input > also to account for child‑talk —typing 'of ps.' i make 'os p...' & typing 'given fungi' i make 'given guni' [sequencing abberation]
+# And simply —forget godawful Gnusmas & The Eggnogg —just realize WHAT have they done to linux: 'Upload image' -> 'Choose: "Camera" || "Camcorder" || "Documents"' —and where do your photos end? YES! in the folder named 'Camera'; try imagining a user understanding 'The Difference' —i cannot [all this stance meant to tell: 'Words! Clearly defined names!!! Not "Jesus at the Dining Room"' (i don’t want to join)]
+# The issue of 'Generic list menu' [exemplified by] youtube: '"Captions" -> "Generic list"' —it has 'Off' option! even with a single list item! but how do you switch the rest of menu stuff? like a button! so i choose 'English' then return and try —naturally —to switch it off pressing 'English' again —but it never works!!!
 # System‑wide abstraction of locking input area [lock-masks for input area`s surroundings]
 # Double‑zoomed as default view mode system‑wide [expandable] —zooming @cursor [active position] & @arbitary place elsewhere [fingertip position]
 # RTL‑to‑LTR mapped bi‑scripting system‑wide [zoom‑following etc]
